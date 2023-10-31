@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 15vh;
+    background: #24252a;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10%;
+    box-shadow: 0 0 1rem black;
+}
+.baterk {
+    margin-right: auto;
+    font-family: "Montserrat", sans-serif;
+    font-weight:500 ;
+    font-size: 16px;
+    color: #edf0f1;
+    list-style-type: none;
+    cursor: pointer;
+    padding-left: auto;
+}
+.links li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+li ,a{
+    font-family: "Montserrat", sans-serif;
+    font-weight:500 ;
+    font-size: 16px;
+    color: #edf0f1;
+    list-style-type: none;
+    cursor: pointer;
+}
+main{
+    background-image:url("https://www.compcorp.com.br/wp-content/uploads/2018/05/bateria-industrial.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    width: 100%;
+    padding-top:100px ;
+}
+.image-content {
+    background: rgba(0,0,0, 0.75);
+    font size: 1.3em;
+    color: whitesmoke;
+    padding:1em;
+    border-radius:1.5em;
+}

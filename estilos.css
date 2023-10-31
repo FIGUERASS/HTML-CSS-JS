@@ -1,0 +1,35 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 940px;
+	margin-left:	auto;
+	margin-right:	auto;
+    color: #3D3D3D;
+    }
+    h1 {
+        color:	#3D3D3D;
+        background-color:	#E1EDF2;
+        margin: 30px;
+        padding: 15px;
+    
+        }
+    h2 {
+        border-color:	gray;
+		border-style:	solid;
+        margin-top: 30px;
+        border-bottom: 2px	solid	black;
+		border-width: 1px;
+        }
+        figure {
+            text-align: center;
+            padding-left: 130px;
+            background-color: whitesmoke;
+            border: 1px	solid	lightgrey;
+
+        }
+        figcaption {
+            margin-top: 10px;
+        }
+        .por-sol {
+            width: 550px;
+            height: 100px;
+        }
